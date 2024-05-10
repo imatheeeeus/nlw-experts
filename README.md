@@ -1,2 +1,8 @@
 # nlw-experts
-NLW Expert de JavaScript
+
+## Tecnologias Utilizadas
+
+- HTML
+- CSS
+- JavaScript
+- GitHub
